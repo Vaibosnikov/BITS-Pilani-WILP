@@ -1,2 +1,2 @@
 # BITS-Pilani-WILP
-University Programs
+A comprehensive repository for learning and practicing C programming. This repo includes fundamental concepts, hands-on exercises, and university assignments as part of my coursework at BITS Pilani (WILP).
